@@ -1,4 +1,6 @@
 {
+  "name": "repetitor202/dev-package-hello-world",
+  "description": "dev package - hello world)",
   "require": {
     "php":">=5.3.0",
     "silex/silex":"dev-master",
