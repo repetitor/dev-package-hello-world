@@ -3,6 +3,7 @@
   "description": "dev package - hello world)",
   "version": "1.0.0",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "php":">=5.3.0",
     "silex/silex":"dev-master",
